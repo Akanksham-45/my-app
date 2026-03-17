@@ -18,7 +18,7 @@ function App() {
       {/* 3. Condition for hide and show */}
       {show && (
         <div>
-          <h2>Hello! This content is visible now.</h2>
+          <h2>Hello This content is visible now.</h2>
           <p>This text appears when the button is clicked.</p>
         </div>
       )}
