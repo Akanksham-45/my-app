@@ -12,7 +12,7 @@ function Student(props) {
 function App() {
   return (
     <div style={{ textAlign: "center", margin: "50px" }}>
-      <h1>Props Example</h1>
+      <h1>Props example</h1>
 
       <Student name="Rahul" age="20" />
       <Student name="Rmit" age="22" />
