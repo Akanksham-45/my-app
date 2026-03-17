@@ -6,7 +6,7 @@ import { Contact } from "./Contact";
 function App() {
     return (
         <div style={{ textAlign: "center" }}>
-            <h1>My App</h1>
+            <h1>MY App</h1>
 
             <Header />
             <About />
