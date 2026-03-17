@@ -14,7 +14,7 @@ function Welcome() {
 function Info() {
   return (
     <div>
-      <h3>What is a Component?</h3>
+      <h3>What is a component?</h3>
       <p>A component is a reusable piece of UI in React.</p>
     </div>
   );
