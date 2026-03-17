@@ -19,7 +19,7 @@ function App(){
         
 
         ):(
-          <h2>Please select a role  </h2>
+          <h2>Please Select a role  </h2>
 
       )}
     </div>
